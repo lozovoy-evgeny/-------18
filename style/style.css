@@ -1167,7 +1167,7 @@ iframe {
     display: none;
 }
 
-@media (max-width:375px) {
+@media (max-width:1300px) {
     .conteiner {
         width: 375px;
     }
